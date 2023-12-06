@@ -3,3 +3,5 @@ Sistema de compras online com gerenciamento de banco de dados utilizando interfa
 
 É necessário criar o banco e adicionar as triggers no MySQL, copiando os arquivos .sql e colando no terminal.
 Para rodar, altere no main.py para o seu usuário do seu MySQL.
+
+*Por Carine Noel e Gabriel Massi*
